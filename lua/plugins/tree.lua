@@ -1,4 +1,3 @@
-
 -- Disable netrw (recommended by nvim-tree). Do this before the plugin loads.
 vim.g.loaded_netrw = 1
 vim.g.loaded_netrwPlugin = 1
