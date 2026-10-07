@@ -60,14 +60,6 @@ vim.keymap.set("n", "<A-S-l>", ":tabmove +1<CR>", { noremap = true, silent = tru
 -- MAPPINGS FOR PLUGINS
 -- =========================
 
--- NVIM-TREE
--- --------------------------
-
--- OPEN FILE EXPLORER
--- vim.keymap.set("n", "<A-e>", ":NvimTreeToggle<CR>", { noremap = true })
--- CLOSE FILE EXPLORER
--- vim.keymap.set("n", "<Esc>", ":NvimTreeClose<CR>", { noremap = true })
-
 -- NEOFORMAT
 -- -----------------------------
 -- vim.keymap.set("n", "<C-f>", ":lua format()<CR>", { noremap = true })
