@@ -72,10 +72,3 @@ vim.keymap.set("n", "<A-S-l>", ":tabmove +1<CR>", { noremap = true, silent = tru
 -- FIND FILES BY TEXT
 -- vim.keymap.set("n", "<A-s>", ":Telescope live_grep<CR>", { noremap = true })
 
--- LANGUAGE SERVER PROVIDER
--- -----------------------------
-
--- vim.keymap.set("n", "gD", vim.lsp.buf.declaration)
--- vim.keymap.set("n", "gd", vim.lsp.buf.definition)
--- vim.keymap.set("n", "gi", vim.lsp.buf.implementation)
-
