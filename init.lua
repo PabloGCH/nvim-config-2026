@@ -5,4 +5,6 @@ require("plugins.lsp")
 require("plugins.tree")
 require("plugins.theme")
 require("plugins.telescope")
+require("plugins.lualine")
+require("plugins.neoscroll")
 
